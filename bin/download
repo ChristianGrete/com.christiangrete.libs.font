@@ -1,0 +1,24 @@
+#!/bin/sh
+
+if [ "$(uname -s)" != Darwin ]
+  then
+    echo "seems you're not using a mac" >&2
+    exit 1
+fi
+
+cd "$HOME/Library/Fonts" 2>/dev/null
+
+if [ $? -ne 0 ]
+  then
+    echo "can't cd to ~/Library/Fonts" >&2
+    exit 1
+fi
+
+TARGET="$(pwd)/com.christiangrete.libs.font"
+
+if [ -d "$TARGET" ]
+  then
+    rm -rf "$TARGET"
+fi
+
+git clone https://github.com/ChristianGrete/com.christiangrete.libs.font.git
