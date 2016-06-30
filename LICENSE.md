@@ -16,6 +16,10 @@ This license is available with a FAQ at: [scripts.sil.org/OFL](http://scripts.si
 
 See: [dejavu-fonts.org](http://dejavu-fonts.org/wiki/License)
 
+## FreeMono, FreeSans, FreeSerif
+
+See: [gnu.org/software/freefont](http://www.gnu.org/software/freefont/license.html)
+
 ## Gentium Plus
 
 Copyright (c) 2003-2014 [SIL International](http://www.sil.org), with Reserved Font Names “Gentium” and “SIL”.
