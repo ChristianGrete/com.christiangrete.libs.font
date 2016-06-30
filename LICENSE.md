@@ -47,3 +47,7 @@ otherwise to promote the sale, use or other dealings in this Font
 Software without prior written authorization from the Gnome Foundation
 or Bitstream Inc., respectively. For further information, contact:
 fonts at gnome dot org.
+
+## DejaVu
+
+See: [http://dejavu-fonts.org/wiki/License](http://dejavu-fonts.org/wiki/License)
