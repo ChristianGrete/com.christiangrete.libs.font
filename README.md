@@ -2,9 +2,6 @@
 
 > Christian Grete’s personal free fonts collection
 
-## Note
-This repository does not contain any artifacts as it is in its initial state.
-
 ## License
 
 This software is licensed under [several licenses](LICENSE.md).
